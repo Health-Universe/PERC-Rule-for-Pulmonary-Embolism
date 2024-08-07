@@ -34,7 +34,7 @@ st.sidebar.divider()
 
 # Display the logo + feedback
 st.sidebar.image("HU_Logo.svg", use_column_width="auto")
-st.sidebar.write("**We value your feedback!** Please share your comments in our [discussions](https://healthuniverse.com).")
+st.sidebar.write("**We value your feedback!** Please share your comments in our [discussions](https://www.healthuniverse.com/apps/tam-ajz-oyo/discussions/).")
 
 # ---------- Code -------------
 
